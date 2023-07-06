@@ -78,3 +78,14 @@ When introducing GitHub to beginning economists as a version control and collabo
     -   Discuss how GitHub can facilitate collaboration among researchers, making it easier to share and reproduce research findings.
 
 By introducing these key points, you will provide beginning economists with a solid foundation for understanding and using GitHub for version control and collaboration in their projects.
+
+Add link to R github book you recommended: https://happygitwithr.com/
+
+Add steps on very basic how to preform first clone, commit, and push 
+1. first do this 
+2. then this
+3. you get it 
+It was still a little teqnical for me because I don't know git or github so I still have to read other things to learn exactly how it works. 
+* Also please upload your most recent copy of the book so I can edit it :) 
+
+
